@@ -1,14 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T01:39:39.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7UqcRvAioErcKnkDvqG9" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T01:46:56.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oEeNyjekZwXpM0Ffw3ic" version="21.2.1" type="github">
   <diagram name="Page-1" id="kqby2NF-Y_mzGaiRBCMI">
     <mxGraphModel dx="880" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zGxp8AbVipiKUGgpOki4-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
-          <mxGeometry x="350" y="220" width="100" height="100" as="geometry" />
+          <mxGeometry x="240" y="220" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zGxp8AbVipiKUGgpOki4-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.server;" vertex="1" parent="1">
           <mxGeometry x="560" y="220" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zGxp8AbVipiKUGgpOki4-5" value="Personnal Use&lt;br&gt;16 GB RAM&lt;br&gt;512 GB / 1 TB&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zGxp8AbVipiKUGgpOki4-6" value="IT Industry / Application Deployment&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="240" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
