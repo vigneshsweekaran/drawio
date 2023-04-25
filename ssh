@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-25T11:38:50.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oRpOqg9mfjaE89ihpdG7" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-25T11:40:12.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Ocd1N6PxVIxcCvZ795YV" version="21.2.1" type="github">
   <diagram name="Page-1" id="6RJf7_AKiT9JHzi-Fjj8">
     <mxGraphModel dx="880" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="QzlnqUXgnARjBDQ6Nfk8-3" value="&lt;b&gt;Windows&lt;br&gt;ssh-client&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="131.75" y="100" width="85.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QzlnqUXgnARjBDQ6Nfk8-4" value="&lt;b&gt;Linux&lt;br&gt;ssh-server&lt;br&gt;ssh-server&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QzlnqUXgnARjBDQ6Nfk8-4" value="&lt;b&gt;Linux&lt;br&gt;ssh-client&lt;br&gt;ssh-server&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="531.75" y="214" width="85.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QzlnqUXgnARjBDQ6Nfk8-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machines_Classic.svg;" vertex="1" parent="1">
