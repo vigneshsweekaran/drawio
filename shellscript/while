@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-05-10T23:49:56.154Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="21.2.9" etag="hsNhNmRgsk73WKJaS9JP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-10T23:59:58.384Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="CzmBIGUCCY2ASUACp9L6" version="21.2.9" type="github">
   <diagram name="Page-1" id="4kGMTAYNbm6g79BjLQtE">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EWL3GIoCkg7UQ0erfIcB-1" value="&lt;h1&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#e32400&quot;&gt;while&lt;/font&gt; [ &lt;font color=&quot;#be38f3&quot;&gt;condition&lt;/font&gt; ]&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#e32400&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;do&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; command 1&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; command 2&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; command 3&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font color=&quot;#e32400&quot; style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;done&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="270" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="EWL3GIoCkg7UQ0erfIcB-3" value="" style="endArrow=classic;html=1;rounded=0;arcSize=30;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="190" as="sourcePoint" />
+            <mxPoint x="360" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWL3GIoCkg7UQ0erfIcB-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="190" as="sourcePoint" />
+            <mxPoint x="290" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EWL3GIoCkg7UQ0erfIcB-5" value="&lt;font color=&quot;#be38f3&quot; style=&quot;font-size: 30px;&quot;&gt;True&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EWL3GIoCkg7UQ0erfIcB-6" value="&lt;font color=&quot;#be38f3&quot; style=&quot;font-size: 30px;&quot;&gt;False&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
